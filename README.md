@@ -90,7 +90,7 @@ This project is licensed under the MIT License.
 - Integrate Spotify API for live song search.An example has been added for the song "shape of you" by ed sheeran.
 - Add emotion recognition from lyrics or voice.
 - Collaborative filtering for better recommendations.
-- Check the notebook named "Mood_Analysis" of the complete IDE of the dataset used along analysis and visualisations of the different audio features.Spotify API "spotipy" use case also included for future integrations.
+- Check the notebook named "Mood_Analysis" for the complete IDE of the dataset used along analysis and visualisations of the different audio features. Spotify API "spotipy" use case also included for future integrations.
 
 ---
 
