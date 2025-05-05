@@ -55,7 +55,7 @@ Welcome to **Moodify**, a music discovery app that helps you explore songs based
   - Chaos level
 - Recommends songs that match the user's vibe by filtering dataset with custom mappings.
 
-### 🔀 Random Mood Song Generator *(Optional Add-on)*
+### 🔀 Random Mood Song Generator 
 - Suggests a random song from a specific mood category (e.g., Sad, Party, Chill, etc.).
 
 ---
@@ -87,9 +87,10 @@ This project is licensed under the MIT License.
 ---
 
 ## 📈 Future Improvements
-- Integrate Spotify API for live song search.
+- Integrate Spotify API for live song search.An example has been added for the song "shape of you" by ed sheeran.
 - Add emotion recognition from lyrics or voice.
 - Collaborative filtering for better recommendations.
+- Check the notebook named "Mood_Analysis" of the complete IDE of the dataset used along analysis and visualisations of the different audio features.Spotify API "spotipy" use case also included for future integrations.
 
 ---
 
